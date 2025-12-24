@@ -1,0 +1,9 @@
+Change Request Form – CR-002
+CR ID: CR-002
+Requested By: Delina Mulubrhan
+Date: 2025-12-24
+Affected CI(s): TEST-001: tests/test_student_record.xlsx
+Description: Add new test cases for add, update, and delete student functionality.
+Justification: Current test cases are incomplete; need to verify all core actions.
+Priority: Medium
+Status: Approved

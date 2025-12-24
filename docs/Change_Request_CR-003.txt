@@ -1,0 +1,9 @@
+Change Request Form – CR-003
+CR ID: CR-003
+Requested By: Delina Mulubrhan
+Date: 2025-12-24
+Affected CI(s): DOC-005: Developer_Guide.docx
+Description: Add instructions for new login validation feature.
+Justification: Developer Guide is outdated; new CR implementation must be documented.
+Priority: Low
+Status: Approved

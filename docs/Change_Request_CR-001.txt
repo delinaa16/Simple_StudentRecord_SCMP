@@ -1,0 +1,9 @@
+Change Request Form – CR-001
+CR ID: CR-001
+Requested By: Delina Mulubrhan
+Date: 2025-12-24
+Affected CI(s): SRC-003: src/login_page.html
+Description: Improve login page layout and add basic input validation.
+Justification: Current login page is missing input validation; UI layout needs minor adjustments.
+Priority: High
+Status: Approved

@@ -1,0 +1,4 @@
+CR ID | CI Affected | Description | Requester | Approval Status | Implementation Date | Version After Change
+CR-001 | TEST-001: tests/test_student_record.xlsx | Add missing test cases | Delina Mulubrhan | Approved | 2025-12-24 | v1.1
+CR-002 | TEST-001: tests/test_student_record.xlsx | Add new test cases for add, update, delete | Delina Mulubrhan | Approved | 2025-12-24 | v1.1
+CR-003 | DOC-005: Developer_Guide.docx | Add instructions for new login validation | Delina Mulubrhan | Approved | 2025-12-24 | v1.1
